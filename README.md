@@ -1,8 +1,8 @@
 # Simon Says Game
 
 Welcome to the Simon Says game! This is a classic memory game where you have to repeat the pattern of colors that Simon shows you. Test your memory and see how far you can go!
+![image](https://github.com/SHAIK-SHAHEED/Simon-says-game/assets/150045974/3c1a45da-03a5-4dd1-a38d-d85777433b9c)
 
-![one](https://github.com/SHAIK-SHAHEED/Simon-says-game/assets/150045974/c8ed088f-c183-4e62-9a7b-79c20ca05d18)
 
 
 
@@ -29,8 +29,8 @@ To play the game, simply open the `index.html` file in your web browser.
 
 ![image](https://github.com/SHAIK-SHAHEED/Simon-says-game/assets/150045974/7bfeadcf-e183-4638-b278-c950fad22b0b)
 
+![image](https://github.com/SHAIK-SHAHEED/Simon-says-game/assets/150045974/a100c740-c2e0-4fc6-bdba-d20445fce5e9)
 
-![image](https://github.com/SHAIK-SHAHEED/Simon-says-game/assets/150045974/22c5dc27-56c6-4e7e-9ee8-465f43750bda)
 
 
 ## Built With
