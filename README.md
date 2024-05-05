@@ -29,7 +29,9 @@ To play the game, simply open the `index.html` file in your web browser.
 
 ![image](https://github.com/SHAIK-SHAHEED/Simon-says-game/assets/150045974/7bfeadcf-e183-4638-b278-c950fad22b0b)
 
-![image](https://github.com/SHAIK-SHAHEED/Simon-says-game/assets/150045974/3f71ca3d-ba65-4fba-a060-572b42bf7d3e)
+![image](https://github.com/SHAIK-SHAHEED/Simon-says-game/assets/150045974/ed0e1c20-8c6f-4dc2-aaec-1bbd568e513c)
+
+
 
 
 
